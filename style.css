@@ -33,5 +33,5 @@ textarea{
     outline: 0;
     padding: 20px;
     border-radius: 10px;
-    resize: ;
+    resize: none;
 }
