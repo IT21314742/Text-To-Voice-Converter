@@ -15,15 +15,18 @@
     background: linear-gradient(45deg, #010758, #490d61);
     color: white;
 }
-.hero h1{
+
+.hero h1 {
     font-size: 45px;
     font-weight: 500;
     margin-top: -50px;
 }
-.hero h1 span{
+
+.hero h1 span {
     color: #ff2963;
 }
-textarea{
+
+textarea {
     width: 600px;
     height: 250px;
     background: #403d84;
