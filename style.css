@@ -39,11 +39,13 @@ textarea {
     resize: none;
     margin-bottom: 30px;
 }
-textarea::placeholder{
+
+textarea::placeholder {
     font-size: 16px;
     color: #ddd;
 }
-.row{
+
+.row {
     width: 600px;
     display: flex;
     align-items: center;
