@@ -51,7 +51,8 @@ textarea::placeholder {
     align-items: center;
     gap: 20px;
 }
-button{
+
+button {
     background: #ff2963;
     color: #FFF;
     font-size: 16px;
