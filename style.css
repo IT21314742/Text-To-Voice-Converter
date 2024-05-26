@@ -81,5 +81,5 @@ select{
     background-image: url(dropdown.png);
     background-repeat: no-repeat;
     background-size: 15px;
-    background-position-x: calc();
+    background-position-x: calc(100);
 }
