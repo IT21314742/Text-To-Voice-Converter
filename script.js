@@ -4,3 +4,4 @@ let voices = [];
 
 let voiceSelect = document.querySelector("select");
 
+window
