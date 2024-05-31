@@ -1,1 +1,1 @@
-let speech = new 
+let speech = new Speech
