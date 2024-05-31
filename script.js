@@ -5,5 +5,5 @@ let voices = [];
 let voiceSelect = document.querySelector("select");
 
 window.speechSynthesis.onvoiceschanged = () => {
-    voices = window.speechSynthesis.getVoices()
+    voices = window.speechSynthesis.getVoices();
 }
