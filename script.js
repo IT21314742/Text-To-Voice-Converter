@@ -1,1 +1,1 @@
-let speech = new SpeechSynthesis
+let speech = new SpeechSynthesisUtterance
