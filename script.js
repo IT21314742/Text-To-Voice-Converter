@@ -2,4 +2,4 @@ let speech = new SpeechSynthesisUtterance();
 
 let voices = [];
 
-let voiceSelect = document.querySelector()
+let voiceSelect = document.querySelector("")
