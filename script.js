@@ -13,4 +13,4 @@ window.speechSynthesis.onvoiceschanged = () => {
 
 };
 
-voice
+voiceSelect
