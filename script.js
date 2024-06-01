@@ -8,5 +8,5 @@ window.speechSynthesis.onvoiceschanged = () => {
     voices = window.speechSynthesis.getVoices();
     speech.voice = voices[0];
 
-    voices.forEach((voice, ))
+    voices.forEach((voice, i))
 }
