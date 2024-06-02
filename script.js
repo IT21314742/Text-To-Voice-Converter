@@ -18,4 +18,4 @@ voiceSelect.addEventListener("change", () => {
 })
 
 
-document.querySelector("button").addEvent
+document.querySelector("button").addEventListener
