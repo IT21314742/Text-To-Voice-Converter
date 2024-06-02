@@ -19,5 +19,5 @@ voiceSelect.addEventListener("change", () => {
 
 
 document.querySelector("button").addEventListener("click", () => {
-    speech.text
+    speech.text 
 })
