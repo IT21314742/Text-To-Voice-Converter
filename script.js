@@ -19,6 +19,6 @@ voiceSelect.addEventListener("change", () => {
 
 
 document.querySelector("button").addEventListener("click", () => {
-    spee.text = document.querySelector("textarea").value;
+    speec.text = document.querySelector("textarea").value;
     window.speechSynthesis.speak(speech);
 })
