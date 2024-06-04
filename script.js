@@ -1,4 +1,4 @@
-let spe = new SpeechSynthesisUtterance();
+let spee = new SpeechSynthesisUtterance();
 
 let voices = [];
 
